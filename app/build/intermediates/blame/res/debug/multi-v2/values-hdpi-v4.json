@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/srini/Documents/SlugTutor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/srini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/28b1e42c4288114340b5ec3340db684b/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "340",
+                        "endLines": "11",
+                        "endColumns": "13",
+                        "endOffsets": "612"
+                    }
+                },
+                {
+                    "source": "/Users/srini/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/84d0c92aff45533dd6e3761ae821956f/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,116,168,226,285",
+                        "endColumns": "60,51,57,58,54",
+                        "endOffsets": "111,163,221,280,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

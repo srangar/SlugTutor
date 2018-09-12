@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "692587077897",
+    "firebase_url": "https://slugtutor-185b6.firebaseio.com",
+    "project_id": "slugtutor-185b6",
+    "storage_bucket": "slugtutor-185b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692587077897:android:08c394418208cf77",
+        "android_client_info": {
+          "package_name": "com.example.srini.slugtutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692587077897-8945hrl25u1rmsbda8qsoaatt6a7fa3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDKQxtLefwNhxqcjVDN_2Z09sMmCR2LEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
